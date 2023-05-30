@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Multiplication {
 
-	public static void main(String args) {
+	public static void main(String[] args) {
 	    int i;
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter the Number do you want to print table ");
