@@ -1,7 +1,7 @@
 package Abstract;
 
 abstract class Shape{
-	abstract void draw(); 
+	abstract void draw; 
 }
 class Rectangle extends Shape{
 	void draw() {
