@@ -1,5 +1,5 @@
 abstract class Shape{  
-abstract void draw;  
+abstract void draw();  
 }  
 // implementation is provided by others i.e. unknown by end user  
 class Rectangle extends Shape{  
