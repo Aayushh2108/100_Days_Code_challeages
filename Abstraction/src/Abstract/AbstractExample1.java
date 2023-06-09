@@ -9,7 +9,7 @@ package Abstract;
 	 }
  }
  class Scooter extends Vehicle{
-	 void start() {
+	 void start {
 		  System.out.println("Scooter starts with kick");
 	 }
 	 public static void main(String[] args) {
