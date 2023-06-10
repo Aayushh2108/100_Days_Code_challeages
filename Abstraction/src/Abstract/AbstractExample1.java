@@ -1,6 +1,6 @@
 package Abstract;
  abstract class Vehicle{
-	 abstract void start;
+	 abstract void start();
  }
  class Car extends Vehicle{
 	 void start() {
