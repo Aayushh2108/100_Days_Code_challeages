@@ -3,7 +3,7 @@ package Abstract;
 	 abstract void start();
  }
  class Car extends Vehicle{
-	 void start( {
+	 void start() {
 		 System.out.println("Car starts with key");
 		 
 	 }
