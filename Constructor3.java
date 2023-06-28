@@ -4,7 +4,7 @@ class Student4{
     //creating a parameterized constructor  
     Student4(int i,String n){  
     id = i;  
-    name = n;  
+    name = n 
     }  
   
     void display(){System.out.println(id+" "+name);}  
