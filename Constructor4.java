@@ -11,7 +11,7 @@ class Student5{
     Student5(int i,String n,int a){  
     id = i;  
     name = n;  
-    age=a  
+    age=a; 
     }  
     void display(){System.out.println(id+" "+name+" "+age);}  
    
