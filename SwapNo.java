@@ -14,7 +14,7 @@ class SwapNo {
 						+ " and Value of n is " + n);
 	}
 
-	
+
 	public static void main(String[] args)
 	{
 		// Random integer values
