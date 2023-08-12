@@ -17,8 +17,7 @@ class Two_Matrix {
 		}
 	}
 
-	// Function to add the two matrices
-	// and store in matrix C
+	
 	static int[][] add(int A[][], int B[][],
 					int size)
 	{
@@ -32,7 +31,7 @@ class Two_Matrix {
 		return C;
 	}
 
-	// Driver code
+
 	public static void main(String[] args)
 	{
 		int size = 4;
@@ -56,7 +55,7 @@ class Two_Matrix {
 		// Add the two matrices
 		int C[][] = add(A, B, size);
 
-		// Print the result
+		
 		System.out.println("\nResultant Matrix:");
 		printMatrix(C, size, size);
 	}
