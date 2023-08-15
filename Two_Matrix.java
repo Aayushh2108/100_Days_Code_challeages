@@ -4,7 +4,7 @@ import java.io.*;
 
 class Two_Matrix {
 
-	// Function to print Matrix
+	
 	static void printMatrix(int M[][],
 							int rowSize,
 							int colSize)
