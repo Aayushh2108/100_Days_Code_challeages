@@ -3,7 +3,9 @@ import java.util.*;
 
 class SwapNo {
 
-	w
+
+
+	
 	static void swapValuesUsingThirdVariable(int m, int n)
 	{
 		// Swapping the values
