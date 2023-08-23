@@ -1,6 +1,6 @@
 class Animal{  
 String color="white";  
-}  
+  
 class Dog extends Animal{  
 String color="black";  
 void printColor(){  
