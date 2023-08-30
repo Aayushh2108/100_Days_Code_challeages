@@ -6,7 +6,7 @@ class Student4{
     id = i;  
     name = n;  
     }  
-    //method to display the value 
+    //method to display the values
     void display(){System.out.println(id+" "+name);}  
    
     public static void main(String args[]){  
