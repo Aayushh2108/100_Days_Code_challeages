@@ -1,6 +1,6 @@
 class Student4{  
     int id;  
-    String name;  
+    String name 
     //creating a parameterized constructor  
     Student4(int i,String n){  
     id = i;  
